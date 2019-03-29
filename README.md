@@ -2,4 +2,4 @@
 
 # SQLite database is needed.
 
-Other materials, such as drawable and mipmap, are unchanged.
+Other materials, such as mipmap, are unchanged.
