@@ -1,1 +1,1 @@
-#Create an account using SQLite Database
+Create an account using SQLite Database
